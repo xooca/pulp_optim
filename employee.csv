@@ -1,0 +1,13 @@
+employee,employee_type,task_type
+r1,normal,task1
+r2,normal,task2
+r3,senior,task3
+r4,senior,task4
+r5,senior,task5
+r6,senior,task1
+r7,normal,task2
+r8,normal,task3
+r9,normal,task4
+r10,normal,task5
+r11,normal,task3
+r12,normal,task4
